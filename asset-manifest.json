@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.1cdf3106.css",
+    "main.js": "./static/js/main.0da2ea48.js",
+    "static/media/brainstorm.png": "./static/media/brainstorm.eaeea57999cf6e83fdd4.png",
+    "static/media/POV.png": "./static/media/POV.3c1db280140858ff766d.png",
+    "static/media/UI1_pic.png": "./static/media/UI1_pic.f498bc7c25e16dcd2c88.png",
+    "static/media/speedDating.png": "./static/media/speedDating.e7c224be78a1991b7191.png",
+    "static/media/design_doc.png": "./static/media/design_doc.8a995d5e3a7e1d390ba4.png",
+    "static/media/flow_pic1.png": "./static/media/flow_pic1.e13732af20183924031a.png",
+    "static/media/UI2_pic.png": "./static/media/UI2_pic.4d82aa32cee608fe4faf.png",
+    "static/media/flow_pic2.png": "./static/media/flow_pic2.2e85bda5f76d97c2f6f8.png",
+    "index.html": "./index.html",
+    "main.1cdf3106.css.map": "./static/css/main.1cdf3106.css.map",
+    "main.0da2ea48.js.map": "./static/js/main.0da2ea48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cdf3106.css",
+    "static/js/main.0da2ea48.js"
+  ]
+}
